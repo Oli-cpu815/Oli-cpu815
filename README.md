@@ -1,12 +1,15 @@
 Hi, I’m Oli Ahamed 
+
 Cybersecurity Expert | Red Teaming Specialist | Ethical Hacker
 
 About Me
+
 I am passionate about protecting systems by thinking like an attacker.  
 Specialized in *Red Team operations*, *penetration testing* and *OSINT investigations*.  
 I enjoy building custom tools, automating reconnaissance, and simulating real-world cyber threats.
 
-🔹 Skills & Tools
+Skills & Tools
+
 Operating Systems:Kali Linux, Parrot OS, Ubuntu, Windows  
 -Languages: Python, Bash  
 -Security Tools: Nmap, Metasploit, Burp Suite, Wireshark, Gobuster, Nuclei  
